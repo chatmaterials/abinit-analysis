@@ -1,5 +1,7 @@
 # abinit-analysis
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/abinit-analysis/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/abinit-analysis/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/abinit-analysis?display_name=tag)](https://github.com/chatmaterials/abinit-analysis/releases)
+
 Standalone skill for post-run ABINIT result analysis and multi-run comparison.
 
 ## Install
