@@ -1,0 +1,19 @@
+# Silicon GS
+ecut 20.0
+ngkpt 6 6 6
+nshiftk 1
+shiftk 0.0 0.0 0.0
+tolvrs 1.0d-10
+occopt 1
+pseudos "Si.psp8"
+natom 1
+ntypat 1
+znucl 14
+typat 1
+acell 3*10.20
+rprim
+ 1.0 0.0 0.0
+ 0.0 1.0 0.0
+ 0.0 0.0 1.0
+xred
+ 0.0 0.0 0.0
